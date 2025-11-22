@@ -1,9 +1,0 @@
-inicio-programa
-variables entero: num, resultado
-num = 1
-repetir
-    resultado = num * 2
-    escribir resultado
-    num = num + 1
-hasta num > 5
-fin-programa
