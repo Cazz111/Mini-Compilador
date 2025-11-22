@@ -1,7 +1,0 @@
-inicio-programa
-variables entero: a, b, division
-a = 20
-b = 4
-division = a / b
-escribir division
-fin-programa
